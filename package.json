@@ -1,0 +1,21 @@
+{
+    "name": "codercoder-dark-theme",
+    "displayName": "codercoder-dark-theme",
+    "description": "The VS Code theme you've seen in all my YouTube videos!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Coder Coder Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Coder Coder Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
