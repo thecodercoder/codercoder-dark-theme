@@ -8,12 +8,12 @@ I took inspiration from the [Community Material](https://marketplace.visualstudi
 
 **HTML screenshot**
 
-![HTML screenshot](codercoder-dark-html.png)
+![HTML screenshot](https://raw.githubusercontent.com/thecodercoder/codercoder-dark-theme/main/codercoder-dark-html.PNG)
 
 **Sass/SCSS screenshot**
 
-![Sass screenshot](codercoder-dark-scss.png)
+![Sass screenshot](https://raw.githubusercontent.com/thecodercoder/codercoder-dark-theme/main/codercoder-dark-scss.PNG)
 
 **JavaScript screenshot**
 
-![JavaScript screenshot](codercoder-dark-js.png)
+![JavaScript screenshot](https://raw.githubusercontent.com/thecodercoder/codercoder-dark-theme/main/codercoder-dark-js.PNG)
