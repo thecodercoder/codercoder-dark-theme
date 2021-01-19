@@ -6,14 +6,14 @@ Here is the VS Code theme that I use in all my [YouTube videos](https://www.yout
 
 I took inspiration from the [Community Material](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme) and the [Dark+ Material](https://marketplace.visualstudio.com/items?itemName=vangware.dark-plus-material) themes.
 
-**HTML screenshot**
+### HTML screenshot
 
 ![HTML screenshot](https://raw.githubusercontent.com/thecodercoder/codercoder-dark-theme/main/codercoder-dark-html.PNG)
 
-**Sass/SCSS screenshot**
+### Sass/SCSS screenshot
 
 ![Sass screenshot](https://raw.githubusercontent.com/thecodercoder/codercoder-dark-theme/main/codercoder-dark-scss.PNG)
 
-**JavaScript screenshot**
+### JavaScript screenshot
 
 ![JavaScript screenshot](https://raw.githubusercontent.com/thecodercoder/codercoder-dark-theme/main/codercoder-dark-js.PNG)
