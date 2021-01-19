@@ -2,7 +2,7 @@
     "name": "codercoder-dark-theme",
     "displayName": "Coder Coder Dark",
     "description": "The VS Code theme you've seen in all my YouTube videos!",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "publisher": "CoderCoder",
     "repository": {
         "type": "git",
