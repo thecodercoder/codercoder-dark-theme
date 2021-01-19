@@ -4,6 +4,7 @@
     "description": "The VS Code theme you've seen in all my YouTube videos!",
     "version": "1.1.1",
     "publisher": "CoderCoder",
+    "icon": "profile-square-150px.jpg",
     "repository": {
         "type": "git",
         "url": "https://github.com/thecodercoder/codercoder-dark-theme"
