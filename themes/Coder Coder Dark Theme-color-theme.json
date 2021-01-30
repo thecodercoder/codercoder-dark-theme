@@ -1066,7 +1066,7 @@
         "variable.language.fenced.markdown"
       ],
       "settings": {
-        "foreground": "#5966cc50"
+        "foreground": "#5966cc"
       }
     },
     {
@@ -1074,7 +1074,7 @@
         "meta.separator"
       ],
       "settings": {
-        "foreground": "#5966cc50",
+        "foreground": "#a7a8af",
         "fontStyle": "bold"
       }
     },
