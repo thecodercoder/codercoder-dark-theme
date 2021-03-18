@@ -597,11 +597,9 @@
       "scope": [
         "punctuation.definition.tag.begin.html",
         "punctuation.definition.tag.end.html",
-        "entity.name.type.module.js"
-
       ],
       "settings": {
-        "foreground": "#6a77d8",
+        "foreground": "#6d6f7c",
       }
     },
     {
@@ -696,6 +694,7 @@
         "string.other.link.title.markdown",
         "variable.other.readwrite.js",
         "variable.other.property.js",
+        "entity.name.type.module.js"
       ],
       "settings": {
         "foreground": "#6a77d8",
