@@ -199,7 +199,7 @@
     "minimapGutter.addedBackground": "#ff00f2",
     "minimapGutter.deletedBackground": "#ff00f2",
     "minimapGutter.modifiedBackground": "#ff00f2",
-
+    "window.activeBorder": "#0e0d1a",
     //"activityBar.activeBorder": "#dddfe9",
     //"activityBar.dropBorder": "#dddfe9",
     //"activityBar.inactiveForeground": "#dddfe966",
