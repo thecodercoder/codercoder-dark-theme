@@ -123,6 +123,8 @@
     "peekViewTitleDescription.foreground": "#dddfe960",
     "pickerGroup.foreground": "#5966cc",
     "progressBar.background": "#5966cc",
+    "quickInputList.focusBackground": "#5966cc30",
+    "quickInputList.focusForeground": "#8c97ea",
     "scrollbar.shadow": "#0e0d1a00",
     "scrollbarSlider.activeBackground": "#5966cc",
     "scrollbarSlider.background": "#5966cc",
