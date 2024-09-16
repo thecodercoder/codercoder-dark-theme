@@ -2,12 +2,12 @@
     "name": "codercoder-dark-theme",
     "displayName": "Coder Coder Dark",
     "description": "The VS Code theme you've seen in all my YouTube videos!",
-    "version": "1.2.6",
+    "version": "1.3.0",
     "publisher": "CoderCoder",
     "icon": "profile-square-150px.jpg",
     "repository": {
         "type": "git",
-        "url": "https://github.com/thecodercoder/codercoder-dark-theme"
+        "url": "https://github.com/OfficialRushO/codercoder-dark-theme"
     },
     "keywords": [
         "theme",
@@ -29,6 +29,11 @@
                 "label": "Coder Coder Dark Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Coder Coder Dark Theme-color-theme.json"
+            },
+            {
+                "label": "Coder Coder Dark Theme (Non Italics)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Coder Coder Dark Non-Italics Theme-color-theme.json"
             }
         ]
     }
