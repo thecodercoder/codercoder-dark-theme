@@ -29,6 +29,11 @@
                 "label": "Coder Coder Dark Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Coder Coder Dark Theme-color-theme.json"
+            },
+            {
+                "label": "Coder Coder Dark Theme Non-Italic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Coder Coder Dark Theme-color-theme-non-italic.json"
             }
         ]
     }
