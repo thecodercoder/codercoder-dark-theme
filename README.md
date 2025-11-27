@@ -12,12 +12,12 @@ Will be maintaining this as I have time, thanks for your understanding! 🙏🏽
 
 ### HTML
 
-![HTML screenshot](https://raw.githubusercontent.com/thecodercoder/codercoder-dark-theme/main/codercoder-dark-html.PNG)
+![HTML screenshot](https://raw.githubusercontent.com/thecodercoder/codercoder-dark-theme/main/codercoder-dark-html.jpg)
 
 ### Sass/SCSS
 
-![Sass screenshot](https://raw.githubusercontent.com/thecodercoder/codercoder-dark-theme/main/codercoder-dark-scss.PNG)
+![Sass screenshot](https://raw.githubusercontent.com/thecodercoder/codercoder-dark-theme/main/codercoder-dark-css.jpg)
 
 ### JavaScript
 
-![JavaScript screenshot](https://raw.githubusercontent.com/thecodercoder/codercoder-dark-theme/main/codercoder-dark-js.PNG)
+![JavaScript screenshot](https://raw.githubusercontent.com/thecodercoder/codercoder-dark-theme/main/codercoder-dark-js.jpg)
