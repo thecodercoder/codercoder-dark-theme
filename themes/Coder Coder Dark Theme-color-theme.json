@@ -154,7 +154,7 @@
     "quickInputList.focusForeground": "#b6bdf2",
     "scrollbar.shadow": "#0e0d1a00",
     "scrollbarSlider.activeBackground": "#5966cc",
-    "scrollbarSlider.background": "#5966cc",
+    "scrollbarSlider.background": "#5966cc50",
     "scrollbarSlider.hoverBackground": "#5966cc",
     "selection.background": "#5966cc",
     "settings.checkboxBackground": "#0e0d1a",
